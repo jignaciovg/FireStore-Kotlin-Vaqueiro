@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442463753581",
+    "project_id": "appfirebase-intro",
+    "storage_bucket": "appfirebase-intro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442463753581:android:564826357a6359d872b664",
+        "android_client_info": {
+          "package_name": "com.vaqueiro.appfirebase_intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442463753581-qnj08neo87deq3o4hqrbs30ujd9fgho1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJGqEbbCDaSX1z63p9sIYI5jXz2xePUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442463753581-qnj08neo87deq3o4hqrbs30ujd9fgho1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
